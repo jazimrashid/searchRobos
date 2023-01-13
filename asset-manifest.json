@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/searchRobos/static/css/main.10b7fe4c.css",
-    "main.js": "/searchRobos/static/js/main.d3b5cda1.js",
+    "main.css": "/searchRobos/static/css/main.03b13d34.css",
+    "main.js": "/searchRobos/static/js/main.568433a9.js",
     "static/js/787.74874bb9.chunk.js": "/searchRobos/static/js/787.74874bb9.chunk.js",
     "static/media/SEGA.woff": "/searchRobos/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/searchRobos/index.html",
-    "main.10b7fe4c.css.map": "/searchRobos/static/css/main.10b7fe4c.css.map",
-    "main.d3b5cda1.js.map": "/searchRobos/static/js/main.d3b5cda1.js.map",
+    "main.03b13d34.css.map": "/searchRobos/static/css/main.03b13d34.css.map",
+    "main.568433a9.js.map": "/searchRobos/static/js/main.568433a9.js.map",
     "787.74874bb9.chunk.js.map": "/searchRobos/static/js/787.74874bb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10b7fe4c.css",
-    "static/js/main.d3b5cda1.js"
+    "static/css/main.03b13d34.css",
+    "static/js/main.568433a9.js"
   ]
 }
